@@ -1,0 +1,64 @@
+# created with git log --stat=76 -M -C -500|fmt -sct -w80
+
+commit ff47d5dcf4e83eec96dc9987876288758145d0bb
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Fri Sep 12 15:38:34 2014 -0600
+
+    added adwm style
+
+ Makefile.am        | 34 ++++++++++++++++++----------------
+ configure.template |  6 ++++++
+ 2 files changed, 24 insertions(+), 16 deletions(-)
+
+commit 909b0133677dcff0e9bade55cc7f9115c3b0e54d
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun Aug 17 17:11:27 2014 -0600
+
+    add themerc file
+
+ Makefile.am   |  3 ++-
+ theme/themerc | 76 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 2 files changed, 78 insertions(+), 1 deletion(-)
+
+commit 6b9cd9d220d17f1d9748dc7c11fe363204cb37f1
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat Jan 25 05:10:15 2014 -0700
+
+    added waimea support
+
+ Makefile.am        | 32 +++++++++++++++++---------------
+ configure.template |  6 ++++++
+ 2 files changed, 23 insertions(+), 15 deletions(-)
+
+commit cd675bb9ed3fc2f66e7a0a5f78b9d030412c8160
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Mon Dec 23 17:47:59 2013 -0700
+
+    update description
+
+ README | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+commit 9236b1b12855477fca75cc739567652db82b3781
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Mon Dec 23 15:01:09 2013 -0700
+
+    initial commit
+
+ .gitignore                            |  12 +++
+ AUTHORS                               |   3 +
+ COPYING                               |  58 ++++++++++++++
+ Makefile.am                           |  61 +++++++++++++++
+ NEWS                                  |  10 +++
+ README                                |  65 +++++++++++++++
+ THANKS                                |   4 +
+ autogen.sh                            |  19 +++++
+ configure.template                    | 126 ++++++++++++++++++++++++++++++
+ images/archlinux-aqua-vines.jpg       | Bin 0 -> 306689 bytes
+ images/archlinux-berry.jpg            | Bin 0 -> 422931 bytes
+ images/archlinux-ekisho-carbonite.jpg | Bin 0 -> 847386 bytes
+ images/archlinux-poolclouds.jpg       | Bin 0 -> 130641 bytes
+ images/archlinux-simplyblack.jpg      | Bin 0 -> 31006 bytes
+ theme/style                           |  47 +++++++++++
+ theme/theme.ini                       |  82 +++++++++++++++++++
+ 16 files changed, 487 insertions(+)

@@ -1,3 +1,6 @@
+---
+layout: default
+---
 [xde-theme-archlinux -- read me first file.  2014-09-12]: #
 
 xde-theme-archlinux
@@ -83,8 +86,7 @@ Following are the five wallpapers included in the theme:
 
 ![archlinux-aqua-vines.jpg](images/archlinux-aqua-vines.jpg "Wallpaper #1")
 ![archlinux-berry.jpg](images/archlinux-berry.jpg "Wallpaper #2")
-![archlinux-ekisho-carbonite.jpg](images/archlinux-ekisho-carbonite.jpg
-"Wallpaper #3")
+![archlinux-ekisho-carbonite.jpg](images/archlinux-ekisho-carbonite.jpg "Wallpaper #3")
 ![archlinux-poolclouds.jpg](images/archlinux-poolclouds.jpg "Wallpaper #4")
 ![archlinux-simplyblack.jpg](images/archlinux-simplyblack.jpg "Wallpaper #5")
 
