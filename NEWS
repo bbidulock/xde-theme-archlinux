@@ -21,12 +21,13 @@ git tag -n100 -l 1.2
 
 git shortlog -e -n -w80,6,8 1.1...1.2
 
-Brian Bidulock <bidulock@openss7.org> (5):
+Brian Bidulock <bidulock@openss7.org> (6):
       update description
       added waimea support
       add themerc file
       added adwm style
       update build and gh-pages
+      update release files
 
 
 Release xde-theme-archlinux-1.1 released 2013-12-23
